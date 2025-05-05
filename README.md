@@ -31,10 +31,10 @@
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 
-
-# Softwares Used:
+# CFD Softwares:
 ![OpenFoam](https://img.shields.io/badge/OpenFoam-00758F?style=for-the-badge&logo=OpenFoam&logoColor=white)
 ![SU2](https://img.shields.io/badge/SU2-00758F?style=for-the-badge&logo=SU2&logoColor=white)
+![AVL](https://img.shields.io/badge/SU2-00758F?style=for-the-badge&logo=SU2&logoColor=white)
 ![SDSA](https://img.shields.io/badge/SDSA-00758F?style=for-the-badge&logo=SDSA&logoColor=white)
 
 # GitHub Statistics:
