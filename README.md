@@ -37,20 +37,12 @@
 # Operating Systems
 ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=flat&logo=CentOS&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
-
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-
-# CFD Softwares
-![OpenFoam](https://img.shields.io/badge/OpenFoam-00758F?style=for-the-badge&logo=OpenFoam&logoColor=white)
-![SU2](https://img.shields.io/badge/SU2-00758F?style=for-the-badge&logo=SU2&logoColor=white)
-![AVL](https://img.shields.io/badge/SU2-00758F?style=for-the-badge&logo=SU2&logoColor=white)
-![SDSA](https://img.shields.io/badge/SDSA-00758F?style=for-the-badge&logo=SDSA&logoColor=white)
 
 # GitHub Statistics
 ![](https://github-readme-stats.vercel.app/api?username=leondeligny&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leondeligny&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leondeligny&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-https://github.com/inttter/md-badges
+Where I found the badges: https://github.com/inttter/md-badges
