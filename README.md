@@ -1,6 +1,6 @@
 ## GitHub Statistics
-![](https://github-readme-stats.vercel.app/api?username=leondeligny&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leondeligny&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=leondeligny&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
 ## Programming Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
